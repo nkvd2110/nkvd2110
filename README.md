@@ -3,13 +3,13 @@ Want to become software engineer.
 HSGS (2017 - 2020) </br>
 HUST (2020 -  .. ) 
 
-# Language Certifications:
+### Language Certifications:
 
 English : B2 
 
 Deutsch : B1 
 
-# Office Skills
+### Office Skills
 
 <!--
 **nkvd2110/nkvd2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
